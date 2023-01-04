@@ -1,0 +1,2 @@
+# CourseFinder
+Composer learning project
